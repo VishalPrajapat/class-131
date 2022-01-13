@@ -1,0 +1,12 @@
+body{
+    background:linear-gradient(#ff0000 0%,#1100ff3d 100% );  
+    }
+    #by{
+        background-color: aliceblue;
+    }
+    .frist{
+        border-radius: 30px;
+        background-color: rgb(255, 255, 255);
+        font-size: larger;
+        width: 450px;
+    }
